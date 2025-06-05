@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     url: process.env.NEXT_PUBLIC_SITE_URL || "https://bizcivitas.com",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/Core.jpg",
         width: 1200,
         height: 630,
         alt: "BizCivitas - Where Ventures and Voyages Intersect",
